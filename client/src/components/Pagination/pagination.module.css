@@ -1,0 +1,16 @@
+.number{
+    margin-left: 20px;
+    border-radius: 20%;
+    border: white;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+.number:hover{
+    transition: 0.5s;
+    box-shadow: 0px 15px 20px rgba(36, 35, 35, 0.534);
+    transform: translateY(-7px);
+    color: black;
+    background-color: rgb(43, 201, 90);
+}
