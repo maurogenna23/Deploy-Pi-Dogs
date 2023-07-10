@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b611e05.css",
+    "main.js": "/static/js/main.82360286.js",
+    "static/media/huella_background.png": "/static/media/huella_background.258787b1edc6c983b20d.png",
+    "static/media/backgroundLanding.png": "/static/media/backgroundLanding.66d6faa99e08a742a38f.png",
+    "static/media/aboutMe.png": "/static/media/aboutMe.d2fcf625901620c6c0e4.png",
+    "static/media/errorPage.jpg": "/static/media/errorPage.891e9749676df6c874b9.jpg",
+    "index.html": "/index.html",
+    "main.5b611e05.css.map": "/static/css/main.5b611e05.css.map",
+    "main.82360286.js.map": "/static/js/main.82360286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b611e05.css",
+    "static/js/main.82360286.js"
+  ]
+}
