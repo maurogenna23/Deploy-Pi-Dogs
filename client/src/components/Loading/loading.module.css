@@ -310,6 +310,7 @@
         z-index: -1;
         -webkit-transform-origin: center top;
         transform-origin: center top;
+
         -webkit-animation: dogTongue 1800ms -50ms ease-in-out infinite;
         animation: dogTongue 1800ms -50ms ease-in-out infinite;
 }
