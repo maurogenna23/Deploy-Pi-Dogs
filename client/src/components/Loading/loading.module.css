@@ -303,16 +303,6 @@
         border-top-right-radius: 50% 40%;
 }
 
-.dogTongue {
-        width: 40px;
-        height: 100%;
-        left: calc(50% - 20px);
-        z-index: -1;
-        -webkit-transform-origin: center top;
-        transform-origin: center top;
-        animation: dogTongue 1800ms -50ms ease-in-out infinite;
-}
-
 
 @-webkit-keyframes dogTongue {
 
